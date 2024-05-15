@@ -1,0 +1,17 @@
+2024-05-09 18:14:55,499  root INFO this is my infor log
+2024-05-09 18:15:26,184  root INFO this is my info log
+2024-05-09 18:22:03,161  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,349  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,350  root INFO this is the value of i I am logging1
+2024-05-09 18:22:16,350  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,351  root INFO this is the value of i I am logging2
+2024-05-09 18:22:16,351  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,351  root INFO this is the value of i I am logging3
+2024-05-09 18:22:16,351  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,352  root INFO this is the value of i I am logging4
+2024-05-09 18:22:16,352  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,352  root INFO this is the value of i I am logging[4, 5, 6]
+2024-05-09 18:22:16,352  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,352  root INFO this is the value of i I am loggingtim
+2024-05-09 18:22:16,352  root INFO this is the start of first for looop [1, 2, 3, 4, [4, 5, 6], 'tim', 'kumar']
+2024-05-09 18:22:16,352  root INFO this is the value of i I am loggingkumar
